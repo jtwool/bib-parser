@@ -1,6 +1,6 @@
 bib-parser
 ==========
-###JT Wolohan###
+### JT Wolohan
 **jwolohan@indiana.edu**
 
 BibTeX (.bib) parser for Clojure
